@@ -1,6 +1,7 @@
 id: 9986926c6df54aeea9cb710b37f6b8fc
 annotation_type: Pagination
 revision: '00001'
+image_group_id: I1PD35626
 annotations:
   d951b241acc04e6ea8cb68ace942de7b:
     imgnum: 1
@@ -8,729 +9,851 @@ annotations:
     span:
       start: 0
       end: 712
+    pagination: null
   c6f4586f0425418da0769c3832357751:
     imgnum: 3
     reference: I1PD356340003.jpg
     span:
       start: 717
       end: 750
+    pagination: null
   7e14193422f74745ad12dcb13d404437:
     imgnum: 4
     reference: I1PD356340004.jpg
     span:
       start: 755
       end: 841
+    pagination: null
   8c14ab84cf1c43c59f7abc30f72003a6:
     imgnum: 5
     reference: I1PD356340005.jpg
     span:
       start: 846
       end: 1891
+    pagination: 1
   d18d6be051af437ab422bda24f20c69e:
     imgnum: 6
     reference: I1PD356340006.jpg
     span:
       start: 1896
       end: 2665
+    pagination: 2
   95db9446d55847849413bbc205ad3ea1:
     imgnum: 7
     reference: I1PD356340007.jpg
     span:
       start: 2670
       end: 3111
+    pagination: 1
   c003b200ad6d418fb4da7436f0290dc7:
     imgnum: 9
     reference: I1PD356340009.jpg
     span:
       start: 3116
       end: 4622
+    pagination: 3
   eb07858f74f3441cb60e3b7ddb6a472e:
     imgnum: 10
     reference: I1PD356340010.jpg
     span:
       start: 4627
       end: 6931
+    pagination: 4
   12faf0ac5e794d068162a60e48a366f0:
     imgnum: 11
     reference: I1PD356340011.jpg
     span:
       start: 6936
       end: 9267
+    pagination: 5
   f917185192db4877b05f06a25331eafd:
     imgnum: 12
     reference: I1PD356340012.jpg
     span:
       start: 9272
       end: 11557
+    pagination: 6
   2e93c9baa964447184e69e158f15beb7:
     imgnum: 13
     reference: I1PD356340013.jpg
     span:
       start: 11562
       end: 13866
+    pagination: 7
   38ad698602104393a4146446cf333f10:
     imgnum: 14
     reference: I1PD356340014.jpg
     span:
       start: 13871
       end: 16239
+    pagination: 8
   afe7b2f270a849979d6c66ade8054e10:
     imgnum: 15
     reference: I1PD356340015.jpg
     span:
       start: 16244
       end: 18592
+    pagination: 9
   1814e47e6f2c4b57b65da9b33b5db3c4:
     imgnum: 16
     reference: I1PD356340016.jpg
     span:
       start: 18597
       end: 20968
+    pagination: 10
   ee5ebc9c3f554590a8ec50f9afec2579:
     imgnum: 17
     reference: I1PD356340017.jpg
     span:
       start: 20973
       end: 23318
+    pagination: 11
   34822841f43f4358b4f2078edc8e4aac:
     imgnum: 18
     reference: I1PD356340018.jpg
     span:
       start: 23323
       end: 25689
+    pagination: 12
   eca1d91024ca4632936500b13c654a6a:
     imgnum: 19
     reference: I1PD356340019.jpg
     span:
       start: 25694
       end: 28051
+    pagination: 13
   ad80005f8c374d21984d406d926acfb6:
     imgnum: 20
     reference: I1PD356340020.jpg
     span:
       start: 28056
       end: 30340
+    pagination: 14
   d671ba82ad2d498889f57832be70e156:
     imgnum: 21
     reference: I1PD356340021.jpg
     span:
       start: 30345
       end: 32762
+    pagination: 15
   ab585229c40b4b558c3e460fb6b7bb1a:
     imgnum: 22
     reference: I1PD356340022.jpg
     span:
       start: 32767
       end: 34107
+    pagination: 16
   7fd7a7d4a6cd4283b45f4a3ac3645ccd:
     imgnum: 23
     reference: I1PD356340023.jpg
     span:
       start: 34112
       end: 35462
+    pagination: 17
   8fcc7650ee7048a69afb2deb1094c87e:
     imgnum: 24
     reference: I1PD356340024.jpg
     span:
       start: 35467
       end: 37784
+    pagination: 18
   aafb67ac404c4424b4b8eb82c0e6f3c1:
     imgnum: 25
     reference: I1PD356340025.jpg
     span:
       start: 37789
       end: 39975
+    pagination: 19
   cb684c85d1284092a296b7e67908629f:
     imgnum: 26
     reference: I1PD356340026.jpg
     span:
       start: 39980
       end: 42062
+    pagination: 20
   e024dd392fc548989fc03fc032bde788:
     imgnum: 27
     reference: I1PD356340027.jpg
     span:
       start: 42067
       end: 43786
+    pagination: 21
   e49a1774190d40c798159702723eb46a:
     imgnum: 28
     reference: I1PD356340028.jpg
     span:
       start: 43791
       end: 46110
+    pagination: 22
   d8d8288241ec43928ded2add3acfc621:
     imgnum: 29
     reference: I1PD356340029.jpg
     span:
       start: 46115
       end: 47825
+    pagination: 23
   c51459904f07404c81c0f89bdd52347f:
     imgnum: 30
     reference: I1PD356340030.jpg
     span:
       start: 47830
       end: 49374
+    pagination: 24
   2bbba827d6b54476af2c419749d38781:
     imgnum: 31
     reference: I1PD356340031.jpg
     span:
       start: 49379
       end: 51693
+    pagination: 25
   3357d2b2ae9d4c568d441f625089ac4b:
     imgnum: 32
     reference: I1PD356340032.jpg
     span:
       start: 51698
       end: 53966
+    pagination: 26
   895d5db815d049c8b1c7c117f15e5564:
     imgnum: 33
     reference: I1PD356340033.jpg
     span:
       start: 53971
       end: 56144
+    pagination: 27
   15da9161ce2c456bbbd81a0973d1e6c8:
     imgnum: 34
     reference: I1PD356340034.jpg
     span:
       start: 56149
       end: 58514
+    pagination: 28
   cfe2e1e284c2483381b9bdee71fa5173:
     imgnum: 35
     reference: I1PD356340035.jpg
     span:
       start: 58519
       end: 60894
+    pagination: 29
   aebde9b30d5940fdb3ebcc7c83578183:
     imgnum: 36
     reference: I1PD356340036.jpg
     span:
       start: 60899
       end: 63221
+    pagination: 30
   f770559145bb4ef885df855bed092085:
     imgnum: 37
     reference: I1PD356340037.jpg
     span:
       start: 63226
       end: 64198
+    pagination: 31
   cac6c6d135234f5fbe53932241374f8f:
     imgnum: 38
     reference: I1PD356340038.jpg
     span:
       start: 64203
       end: 65497
+    pagination: 32
   a32c290336334356ba246be2b33bb6a1:
     imgnum: 39
     reference: I1PD356340039.jpg
     span:
       start: 65502
       end: 67837
+    pagination: 33
   6e8f061de739430088b4a21a1fae4ab9:
     imgnum: 40
     reference: I1PD356340040.jpg
     span:
       start: 67842
       end: 70140
+    pagination: 34
   8afc102bdc354b3f85a5d4a64272de7c:
     imgnum: 41
     reference: I1PD356340041.jpg
     span:
       start: 70145
       end: 71989
+    pagination: 35
   c2b48ceb232f46289d1449266a1daffb:
     imgnum: 42
     reference: I1PD356340042.jpg
     span:
       start: 71994
       end: 74283
+    pagination: 36
   aa5c3f46c31b462d84c0e657bd043fc4:
     imgnum: 43
     reference: I1PD356340043.jpg
     span:
       start: 74288
       end: 76543
+    pagination: 37
   756670c2ecd7469286a3987b23ce66c8:
     imgnum: 44
     reference: I1PD356340044.jpg
     span:
       start: 76548
       end: 78378
+    pagination: 38
   06eb2093df194b36b890f791c1678086:
     imgnum: 45
     reference: I1PD356340045.jpg
     span:
       start: 78383
       end: 80267
+    pagination: 39
   6674f8e1f02f4ac1ae06bddca2553b84:
     imgnum: 46
     reference: I1PD356340046.jpg
     span:
       start: 80272
       end: 82560
+    pagination: 40
   4aa13c328dae412582e6b0087a874f86:
     imgnum: 47
     reference: I1PD356340047.jpg
     span:
       start: 82565
       end: 83894
+    pagination: 41
   59a6ad406b6f42399d4c8198d1ec0379:
     imgnum: 48
     reference: I1PD356340048.jpg
     span:
       start: 83899
       end: 85426
+    pagination: 42
   80f73841a2ed4f7d8a7daff3a7107262:
     imgnum: 49
     reference: I1PD356340049.jpg
     span:
       start: 85431
       end: 87809
+    pagination: 43
   47be7aa58d6b420daeb34c4d456d3762:
     imgnum: 50
     reference: I1PD356340050.jpg
     span:
       start: 87814
       end: 89317
+    pagination: 44
   503c2f30d4d6413ea2566cfc2fbcc291:
     imgnum: 51
     reference: I1PD356340051.jpg
     span:
       start: 89322
       end: 90706
+    pagination: 45
   7b05c96b327e4254b196221cb31ed518:
     imgnum: 52
     reference: I1PD356340052.jpg
     span:
       start: 90711
       end: 92927
+    pagination: 46
   6ccfe812402e47eca65314aa38f309b4:
     imgnum: 53
     reference: I1PD356340053.jpg
     span:
       start: 92932
       end: 95373
+    pagination: 47
   a2b05ff43010477489c9e85889f6290c:
     imgnum: 54
     reference: I1PD356340054.jpg
     span:
       start: 95378
       end: 97150
+    pagination: 48
   fc134530920946bc89ab7eb8a0d25b10:
     imgnum: 55
     reference: I1PD356340055.jpg
     span:
       start: 97155
       end: 99174
+    pagination: 49
   7786a7153a5749c4ae26a156ed5c8980:
     imgnum: 56
     reference: I1PD356340056.jpg
     span:
       start: 99179
       end: 100791
+    pagination: 50
   918bf592ff5d4b34a2861659239d2df1:
     imgnum: 57
     reference: I1PD356340057.jpg
     span:
       start: 100796
       end: 102549
+    pagination: 51
   ff55526e46d146eab429613b84794180:
     imgnum: 58
     reference: I1PD356340058.jpg
     span:
       start: 102554
       end: 104978
+    pagination: 52
   be31da1efe7d4083ba3dedd4abb0b96e:
     imgnum: 59
     reference: I1PD356340059.jpg
     span:
       start: 104983
       end: 106114
+    pagination: 53
   0c986367552e4e21932142d198ca266a:
     imgnum: 60
     reference: I1PD356340060.jpg
     span:
       start: 106119
       end: 107674
+    pagination: 54
   06df25cb2e8a4708b80144d02f815723:
     imgnum: 61
     reference: I1PD356340061.jpg
     span:
       start: 107679
       end: 109176
+    pagination: 55
   26df96073c434a0598a1660beceacfb6:
     imgnum: 62
     reference: I1PD356340062.jpg
     span:
       start: 109181
       end: 110394
+    pagination: 56
   0451ad94d32f4151bf0ec6b45a338fb0:
     imgnum: 64
     reference: I1PD356340064.jpg
     span:
       start: 110399
       end: 111674
+    pagination: 58
   8b41a1f4139b4064a160137c2a4c4dd0:
     imgnum: 65
     reference: I1PD356340065.jpg
     span:
       start: 111679
       end: 112646
+    pagination: 59
   1567aa5d840c47039440c823ec437a02:
     imgnum: 66
     reference: I1PD356340066.jpg
     span:
       start: 112651
       end: 114086
+    pagination: 60
   ec61cb6aecdf46f7a7af630f1e761e02:
     imgnum: 67
     reference: I1PD356340067.jpg
     span:
       start: 114091
       end: 115714
+    pagination: 61
   2e0a8b55b80d4d929249a44d37e434e6:
     imgnum: 68
     reference: I1PD356340068.jpg
     span:
       start: 115719
       end: 116364
+    pagination: 62
   d5fc390348b84f92a1c05254fb35c019:
     imgnum: 69
     reference: I1PD356340069.jpg
     span:
       start: 116369
       end: 117730
+    pagination: 63
   1126c2db5bda4b6382958d5ddb27bf21:
     imgnum: 70
     reference: I1PD356340070.jpg
     span:
       start: 117735
       end: 119848
+    pagination: 64
   680bb5a4193b494990e7cb1e0924cd9b:
     imgnum: 71
     reference: I1PD356340071.jpg
     span:
       start: 119853
       end: 121943
+    pagination: 65
   b366dd4bbf4a4e39b5cb4747db20e8b3:
     imgnum: 72
     reference: I1PD356340072.jpg
     span:
       start: 121948
       end: 124111
+    pagination: 66
   7601f21575db49b9b175f555fb62e8f9:
     imgnum: 73
     reference: I1PD356340073.jpg
     span:
       start: 124116
       end: 126329
+    pagination: 67
   f04fc66cc0ea4c9cbee68e72f20b7874:
     imgnum: 74
     reference: I1PD356340074.jpg
     span:
       start: 126334
       end: 128308
+    pagination: 68
   46846b6a6d2341b2ba178272ba047b80:
     imgnum: 75
     reference: I1PD356340075.jpg
     span:
       start: 128313
       end: 130474
+    pagination: 69
   adab34095d234ce292f0a72612ea914a:
     imgnum: 76
     reference: I1PD356340076.jpg
     span:
       start: 130479
       end: 132620
+    pagination: 70
   e65e2768839d46dd9622b7d75ee2aaff:
     imgnum: 77
     reference: I1PD356340077.jpg
     span:
       start: 132625
       end: 134548
+    pagination: 71
   c955ce8c283347228ccde3b2b9a3dfb7:
     imgnum: 78
     reference: I1PD356340078.jpg
     span:
       start: 134553
       end: 136659
+    pagination: 72
   18226576eccf411a8273f2ce8484801e:
     imgnum: 79
     reference: I1PD356340079.jpg
     span:
       start: 136664
       end: 138748
+    pagination: 73
   e9151dc6215b4065b4f19808855967e7:
     imgnum: 80
     reference: I1PD356340080.jpg
     span:
       start: 138753
       end: 139762
+    pagination: 74
   32d54026e51645b4932e995a4d27f844:
     imgnum: 81
     reference: I1PD356340081.jpg
     span:
       start: 139767
       end: 141320
+    pagination: 75
   4a7e196355244b6eab197399af906018:
     imgnum: 82
     reference: I1PD356340082.jpg
     span:
       start: 141325
       end: 143595
+    pagination: 76
   14c40a7f3891415cb0732812b90c6e1e:
     imgnum: 83
     reference: I1PD356340083.jpg
     span:
       start: 143600
       end: 145636
+    pagination: 77
   3135612fa0374781ac5fe64fd6fac6b9:
     imgnum: 84
     reference: I1PD356340084.jpg
     span:
       start: 145641
       end: 147816
+    pagination: 78
   3760fbd0b8c84ce8851e5f7fc19901dd:
     imgnum: 85
     reference: I1PD356340085.jpg
     span:
       start: 147821
       end: 149938
+    pagination: 79
   f7e85d5957e44369a147e6129f9a08d3:
     imgnum: 86
     reference: I1PD356340086.jpg
     span:
       start: 149943
       end: 151318
+    pagination: 80
   8823051b16824315b0770e6b22af3732:
     imgnum: 87
     reference: I1PD356340087.jpg
     span:
       start: 151323
       end: 153670
+    pagination: 81
   8af5d114d157459397b9f8ed51273907:
     imgnum: 88
     reference: I1PD356340088.jpg
     span:
       start: 153675
       end: 155895
+    pagination: 82
   92bdea772cc6451ba90afdafe7a4e029:
     imgnum: 89
     reference: I1PD356340089.jpg
     span:
       start: 155900
       end: 158065
+    pagination: 83
   1956823ab626477eb47ad6404b16ce29:
     imgnum: 90
     reference: I1PD356340090.jpg
     span:
       start: 158070
       end: 160295
+    pagination: 84
   b4d0b930180b442298e1a4186588c870:
     imgnum: 91
     reference: I1PD356340091.jpg
     span:
       start: 160300
       end: 162466
+    pagination: 85
   d2c96b04cda04421a1ff6818072d0b29:
     imgnum: 92
     reference: I1PD356340092.jpg
     span:
       start: 162471
       end: 164577
+    pagination: 86
   2ff5918959484183818adf537f4268d8:
     imgnum: 93
     reference: I1PD356340093.jpg
     span:
       start: 164582
       end: 166751
+    pagination: 87
   0f25db3ffe0e4e6f9c23b6b682da6f8b:
     imgnum: 94
     reference: I1PD356340094.jpg
     span:
       start: 166756
       end: 168899
+    pagination: 88
   cecac210486f47dba834ca34cdbfa7ab:
     imgnum: 95
     reference: I1PD356340095.jpg
     span:
       start: 168904
       end: 171058
+    pagination: 89
   8abdd3ea32994f51ac798f1cff32355e:
     imgnum: 96
     reference: I1PD356340096.jpg
     span:
       start: 171063
       end: 173358
+    pagination: 90
   a40d9f2e8c8f473897208788c33da3d9:
     imgnum: 97
     reference: I1PD356340097.jpg
     span:
       start: 173363
       end: 175468
+    pagination: 91
   3dc327e0f8334f2483418364c4fa6f9d:
     imgnum: 98
     reference: I1PD356340098.jpg
     span:
       start: 175473
       end: 176479
+    pagination: 92
   6b36c6954b734d35b7923e287f609dcc:
     imgnum: 99
     reference: I1PD356340099.jpg
     span:
       start: 176484
       end: 177768
+    pagination: 93
   3deee109545946809dfad35cfb90d13b:
     imgnum: 100
     reference: I1PD356340100.jpg
     span:
       start: 177773
       end: 180111
+    pagination: 94
   76fed9a0da694a10a2f5267195f8e122:
     imgnum: 101
     reference: I1PD356340101.jpg
     span:
       start: 180116
       end: 182426
+    pagination: 95
   79412c1f67a44e8196be55169c316d62:
     imgnum: 102
     reference: I1PD356340102.jpg
     span:
       start: 182431
       end: 184782
+    pagination: 96
   1e32810003684208bd5c12f9c2a0d5de:
     imgnum: 103
     reference: I1PD356340103.jpg
     span:
       start: 184787
       end: 187155
+    pagination: 97
   97a04aa96fa44322aef36e300f8c52d2:
     imgnum: 104
     reference: I1PD356340104.jpg
     span:
       start: 187160
       end: 189439
+    pagination: 98
   c3b3887714fc4bf2ac5f0fe77abeb024:
     imgnum: 105
     reference: I1PD356340105.jpg
     span:
       start: 189444
       end: 191831
+    pagination: 99
   d3965857b0814c1bb8b41f5b3615b738:
     imgnum: 106
     reference: I1PD356340106.jpg
     span:
       start: 191836
       end: 194252
+    pagination: 100
   3689da49195645aca3f7cbb2aecdcf43:
     imgnum: 107
     reference: I1PD356340107.jpg
     span:
       start: 194257
       end: 196599
+    pagination: 101
   363902ae93164bb7b194a2bbb8056fc4:
     imgnum: 108
     reference: I1PD356340108.jpg
     span:
       start: 196604
       end: 197368
+    pagination: 102
   86fdf79ba4cd48f89781c1343d5bacdc:
     imgnum: 109
     reference: I1PD356340109.jpg
     span:
       start: 197373
       end: 198671
+    pagination: 103
   fe860fc5e938408ea2a689a43fb30eac:
     imgnum: 110
     reference: I1PD356340110.jpg
     span:
       start: 198676
       end: 201024
+    pagination: 104
   c5311503b9444552b6bb718cb9f8dbe3:
     imgnum: 111
     reference: I1PD356340111.jpg
     span:
       start: 201029
       end: 203365
+    pagination: 105
   e063baa0c93c47f28bff6a4519a1bab9:
     imgnum: 112
     reference: I1PD356340112.jpg
     span:
       start: 203370
       end: 205703
+    pagination: 106
   d6e416de5c1044498595e57a04c0ec0d:
     imgnum: 113
     reference: I1PD356340113.jpg
     span:
       start: 205708
       end: 207938
+    pagination: 107
   dd642720f569431395e9f611ba64be37:
     imgnum: 114
     reference: I1PD356340114.jpg
     span:
       start: 207943
       end: 209499
+    pagination: 108
   e7ab7b0faf3b4fe49611a1e7bb50853c:
     imgnum: 115
     reference: I1PD356340115.jpg
     span:
       start: 209504
       end: 211948
+    pagination: 109
   8ed3c5b278bb478faa5741819d6f1572:
     imgnum: 116
     reference: I1PD356340116.jpg
     span:
       start: 211953
       end: 214284
+    pagination: 110
   28e1f793e51547abaf8fbe474307594f:
     imgnum: 117
     reference: I1PD356340117.jpg
     span:
       start: 214289
       end: 216778
+    pagination: 111
   353af44afbf84e8c8f003955a8ec939f:
     imgnum: 118
     reference: I1PD356340118.jpg
     span:
       start: 216783
       end: 219158
+    pagination: 112
   2479304f105e410bb17c0a794542dc94:
     imgnum: 119
     reference: I1PD356340119.jpg
     span:
       start: 219163
       end: 221489
+    pagination: 113
   2517bc60f90945e785a8cee069131e04:
     imgnum: 120
     reference: I1PD356340120.jpg
     span:
       start: 221494
       end: 222984
+    pagination: 114
   9dfc93347ac142b7accdc089f0fd2523:
     imgnum: 121
     reference: I1PD356340121.jpg
     span:
       start: 222989
       end: 224750
+    pagination: 115
   a29acb4a0735466dbec30385902e8ae6:
     imgnum: 122
     reference: I1PD356340122.jpg
     span:
       start: 224755
       end: 226081
+    pagination: 116
   09b4d33fa9df4817816980fdb3f5ae37:
     imgnum: 123
     reference: I1PD356340123.jpg
     span:
       start: 226086
       end: 227470
+    pagination: 117
   bfafd459f2e24ec1a95dde77006a1456:
     imgnum: 125
     reference: I1PD356340125.jpg
     span:
       start: 227475
       end: 227583
+    pagination: 119
   8f1fc963a2ef41cba02c3733aa47bca4:
     imgnum: 126
     reference: I1PD356340126.jpg
     span:
       start: 227588
       end: 228065
+    pagination: 120
